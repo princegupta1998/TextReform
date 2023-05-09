@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TextReform/static/css/main.56bd7a77.css",
-    "main.js": "/TextReform/static/js/main.65de00b7.js",
+    "main.js": "/TextReform/static/js/main.873b102c.js",
     "static/js/787.b60f21de.chunk.js": "/TextReform/static/js/787.b60f21de.chunk.js",
     "index.html": "/TextReform/index.html",
     "main.56bd7a77.css.map": "/TextReform/static/css/main.56bd7a77.css.map",
-    "main.65de00b7.js.map": "/TextReform/static/js/main.65de00b7.js.map",
+    "main.873b102c.js.map": "/TextReform/static/js/main.873b102c.js.map",
     "787.b60f21de.chunk.js.map": "/TextReform/static/js/787.b60f21de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56bd7a77.css",
-    "static/js/main.65de00b7.js"
+    "static/js/main.873b102c.js"
   ]
 }
